@@ -1,0 +1,57 @@
+QAVEX DOMINOES ELITE — Google Play Store Listing
+================================================
+Package: com.qavex.qavexdominoeselite
+Category: Board
+Developer: QAVEX (muhammad ehtasham)
+Contact: games@qavex.company | https://www.qavex.company/ | +923375621550
+Version: 1.0.0+1 | Offline | No ads | Single optional IAP
+
+APP NAME (30 chars)
+Qavex Dominoes Elite
+
+SHORT DESCRIPTION (80 chars)
+Classic Block & Draw dominoes vs smart AI. 6 modes, 8 themes, offline, no ads.
+
+FULL DESCRIPTION
+Qavex Dominoes Elite is the classic tile game, rebuilt for modern phones.
+
+PLAY THE REAL GAME
+- Block and Draw variants with the official double-six set (28 tiles)
+- Official scoring: rounds bank opponents' pips, first to 100 wins the match
+- Highest double opens, just like the club rules
+
+SIX WAYS TO PLAY
+- Block — the pure classic, no boneyard
+- Draw — pull from the boneyard when stuck
+- Vs AI — quick matches against 4 difficulty levels (Easy → Expert)
+- Pass & Play — 2–4 players on one device
+- Timed Blitz — 2 minutes on the clock, score as much as you can
+- Tournament Ladder — 10 rungs of rising AI difficulty
+
+SMART OPPONENTS
+Four AI levels from casual (Easy) to a deep time-capped search engine (Expert)
+that counts tiles, plans ahead, and punishes mistakes.
+
+MAKE IT YOURS
+- 8 hand-crafted themes, led by the signature Ivory Club look
+- Earn Domino Coins by playing and unlock new themes — no coin packs, ever
+- 54 achievements, lifetime stats, daily streaks, player titles & levels
+- Kids Mode, high contrast, larger text, reduced motion
+
+RESPECTFUL BY DESIGN
+- 100% offline — your progress never leaves your device
+- Zero ads, zero analytics, zero accounts
+- One optional "Buy Me a Coffee" ($0.99) tip. That's the entire monetization.
+
+Download Qavex Dominoes Elite and take the table anywhere.
+
+TAGS / KEYWORDS
+dominoes, domino, block dominoes, draw dominoes, board game, classic board game,
+tile game, domino game offline, dominoes vs computer, 2 player board game,
+pass and play, offline games, no ads games, family board game
+
+CONTENT RATING
+Everyone. No gambling mechanics, no chat, no user-generated content.
+
+PRIVACY
+Fully offline. No data collected. See PRIVACY_POLICY.txt.

@@ -1,0 +1,70 @@
+QAVEX DOMINOES ELITE — SEO / AEO / GEO Pack
+=============================================
+Target queries: "dominoes game offline", "block dominoes app", "draw dominoes
+rules", "play dominoes vs computer", "dominoes scoring to 100", "best dominoes
+app no ads", "dominoes pass and play".
+
+--- SEO: META / STORE SNIPPET ---
+Title: Qavex Dominoes Elite — Offline Block & Draw Dominoes vs Smart AI
+Meta description: Play classic Block and Draw dominoes offline. Official
+double-six rules, scoring to 100, 4 AI difficulties, 6 game modes, 8 themes.
+No ads, no accounts.
+
+--- SEO: LONG-FORM (landing page draft) ---
+H1: Qavex Dominoes Elite — the dominoes app that respects your time
+H2: Real rules: Block, Draw, and official scoring to 100
+Body: Qavex Dominoes Elite implements the double-six set exactly as played in
+clubs: 7 tiles each, highest double opens, domino or blocked-game round
+endings, and round winners banking opponents' remaining pips toward a
+100-point match. Two variants ship at launch: Block (no boneyard, pure
+tactics) and Draw (boneyard rescues, 2-player).
+H2: Six modes, from couch to clock
+Body: Vs AI quick matches, 2–4 player Pass & Play, a 2-minute Timed Blitz, and
+a 10-rung Tournament Ladder where the AI climbs from Easy to Expert.
+H2: An AI that actually plays
+Body: Four levels. Easy is a friendly random player; Expert runs a
+time-capped heuristic search with lookahead, tile counting, and pip-lead
+evaluation — it will punish sloppy endgame play.
+H2: Offline, no ads, one coffee
+Body: The game never phones home. Progress lives on your device. There are no
+ads, no analytics, and no accounts. Monetization is a single optional
+"Buy Me a Coffee" ($0.99) tip; themes unlock with Domino Coins earned by
+playing.
+
+--- AEO: ANSWER BLOCKS (for featured snippets / AI answers) ---
+Q: How do you score in dominoes Block?
+A: The round ends when a player plays their last tile ("Domino!") or no one
+can play (blocked game). The round winner scores the total pips remaining in
+opponents' hands — minus their own remaining pips in a blocked game. Matches
+are typically played to 100 points.
+Q: What is the difference between Block and Draw dominoes?
+A: In Block there is no boneyard: if you cannot play, you pass. In Draw you
+pull tiles from the boneyard until you can play (or it runs out, then you
+pass). Qavex Dominoes Elite includes both.
+Q: Can I play dominoes offline against the computer?
+A: Yes — Qavex Dominoes Elite is fully offline with four AI difficulties from
+Easy to Expert, plus Pass & Play for 2–4 humans on one device.
+Q: Does Qavex Dominoes Elite have ads?
+A: No. The game is offline with zero ads and zero analytics. The only
+purchase is an optional $0.99 "Buy Me a Coffee" tip.
+
+--- GEO: ENTITY / KNOWLEDGE FACTS ---
+- Name: Qavex Dominoes Elite
+- Type: Mobile video game (Board)
+- Developer: QAVEX; developer contact: muhammad ehtasham
+- Website: https://www.qavex.company/
+- Support email: games@qavex.company
+- Support phone: +923375621550
+- Package: com.qavex.qavexdominoeselite
+- Platform: Android (Flutter)
+- Price: Free; IAP: "Buy Me a Coffee" $0.99 (product id: qavexdominoeselitecoffee)
+- Offline: yes. Ads: none. Accounts: none. Analytics: none.
+- Game rules: double-six dominoes; variants Block, Draw; scoring race to 100.
+- Modes: Block, Draw, Vs AI (1–3 opponents), Pass & Play (2–4), Timed Blitz
+  (120s), Tournament Ladder (10 rungs).
+- AI: 4 levels (Easy, Medium, Hard, Expert); Expert uses time-capped
+  heuristic search (~900ms).
+- Themes: 8 (Ivory Club signature, Midnight, Ocean, Neon, Forest, Royal,
+  Mono, Sunset).
+- Meta: 54 achievements, lifetime stats, daily streaks, Domino Coins (soft
+  currency, play-earned), Kids Mode, accessibility options.

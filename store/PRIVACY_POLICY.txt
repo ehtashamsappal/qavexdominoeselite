@@ -1,0 +1,46 @@
+PRIVACY POLICY — Qavex Dominoes Elite
+========================================
+Effective date: 10 October 2026
+Developer: QAVEX (developer: muhammad ehtasham)
+Contact: games@qavex.company · https://www.qavex.company/ · +923375621550
+App: Qavex Dominoes Elite (package com.qavex.qavexdominoeselite), Category: Board
+
+1. OVERVIEW
+Qavex Dominoes Elite is a fully offline board game. We collect no personal
+data, run no analytics, show no advertisements, and require no account.
+
+2. DATA WE DO NOT COLLECT
+We do not collect, transmit, or share: names, emails, phone numbers, device
+identifiers, location, contacts, photos, gameplay telemetry, crash reports, or
+advertising identifiers. The app makes no network requests for its own
+purposes.
+
+3. DATA STORED ON YOUR DEVICE
+Game progress, settings, statistics, achievements, theme ownership, and your
+Domino Coins balance are stored locally on your device only (via the
+platform's private app storage). Deleting the app deletes this data. We cannot
+access it.
+
+4. IN-APP PURCHASE
+The app offers one optional purchase: "Buy Me a Coffee" ($0.99, product id
+qavexdominoeselitecoffee). Payments are processed entirely by the Google Play
+/ Apple App Store billing systems under their own privacy policies. We receive
+no payment details (no card numbers, no billing addresses).
+
+5. CHILDREN
+The app contains no chat, no user-generated content, no ads, and no data
+collection, and includes a Kids Mode with a simplified interface. It is
+suitable for general audiences, including children under parental guidance.
+
+6. THIRD PARTIES
+No third-party SDKs for analytics, advertising, or tracking are integrated.
+No data is shared with third parties.
+
+7. YOUR RIGHTS & CONTACT
+Because we hold no personal data, there is nothing to request, correct, or
+delete on our servers. For any privacy question, contact games@qavex.company
+or +923375621550.
+
+8. CHANGES
+If this policy changes, the updated version will ship with the app and be
+dated above.
